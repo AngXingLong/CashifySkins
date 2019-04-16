@@ -1,0 +1,41 @@
+
+//clear old authtokens
+DELETE FROM authtokens WHERE now() > expire;
+
+// update charts
+
+
+START TRANSACTION;
+
+INSERT INTO price_summary (item_id, avg_price, sold, time) SELECT item_id, avg(price), count(*), time_transacted FROM item_transaction where  time_transacted >= NOW() - INTERVAL 7 DAY GROUP BY item_id , DATE_FORMAT(time_transacted,'%d %b %Y %h') on duplicate key UPDATE sold = sold,  avg_price = avg_price;
+
+COMMIT;
+
+// Inqueue trades
+
+update trade_transaction set status = @status, status_comment = @status_comment, staff_comment = @staff_comment, time_end = now() where id = @id
+update trade_transaction_details ttd inner join item_transaction it on it.id = ttd.item_transaction_id set it.status = 6 where ttd.trade_id = @id
+
+START TRANSACTION;
+
+update trade_transaction tt inner join trade_transaction_details ttd on tt.id = ttd.trade_id inner join item_transaction it on it.id = ttd.item_transcation set tt.status = 5, tt.status_comment = 'Bot Timeout', it.status = 6 where tt.status = 0 and tt.type = 0 and DATE_SUB(now(), INTERVAL 30 MINUTE) > tt.time_start;
+
+update trade_transaction tt inner join trade_transaction_details ttd on tt.id = ttd.trade_id inner join item_transaction it on it.id = ttd.item_transcation set tt.status = 5, tt.status_comment = 'Bot Timeout', it.status = 1, it.matched = 0 where tt.status = 0 and tt.type = 1 and DATE_SUB(now(), INTERVAL 30 MINUTE) > tt.time_start;
+
+update trade_transaction tt inner join trade_transaction_details ttd on tt.id = ttd.trade_id inner join item_transaction it on it.id = ttd.item_transcation set tt.status = 5, tt.status_comment = 'Bot Timeout', it.status = 10 where tt.status = 0 and tt.type = 2 and DATE_SUB(now(), INTERVAL 30 MINUTE) > tt.time_start;
+                
+update trade_transaction tt inner join trade_transaction_details ttd on tt.id = ttd.trade_id inner join item_transaction it on it.id = ttd.item_transcation set tt.status = 5, tt.status_comment = 'Bot Timeout', it.status = 1, it.buyer_sid = 0, it.matched = 0 where tt.status = 0 and tt.type = 3 and DATE_SUB(now(), INTERVAL 30 MINUTE) > time_start;
+
+COMMIT;
+
+// Remove unresponsive bots
+// Need edit
+START TRANSACTION;
+
+update bot set status = 0 where DATE_SUB(now(), INTERVAL 30 MINUTE) > last_reported;
+
+select * from bot where DATE_SUB(now(), INTERVAL 30 MINUTE) > last_reported;
+
+delete from inventory where botsid in (select steamid from bot where last_reported >= NOW() - INTERVAL 30 MINUTE);
+
+COMMIT;
