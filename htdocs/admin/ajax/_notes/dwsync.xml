@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="start-bot.php" server="128.199.115.112//var/www/cashifyskins/" local="131069366029655773" remote="131069366110000000" Dst="0" />
+<file name="bot-status-data.php" server="128.199.115.112//var/www/cashifyskins/" local="131074591198731432" remote="131074591210000000" Dst="0" />
+<file name="correct-trade.php" server="128.199.115.112//var/www/cashifyskins/" local="131078583329447716" remote="131078583430000000" Dst="0" />
+<file name="refund-purchase.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095010000000" remote="131069095010000000" Dst="0" />
+<file name="stop-all-bot.php" server="128.199.115.112//var/www/cashifyskins/" local="131069267640000000" remote="131069267640000000" Dst="0" />
+<file name="start-all-bot.php" server="128.199.115.112//var/www/cashifyskins/" local="131069267650000000" remote="131069267650000000" Dst="0" />
+<file name="stop-bot.php" server="128.199.115.112//var/www/cashifyskins/" local="131069267630000000" remote="131069267630000000" Dst="0" />
+<file name="refund-fund-purchase.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095010000000" remote="131069095010000000" Dst="0" />
+<file name="admin-access.php" server="128.199.115.112//var/www/cashifyskins/" local="131073617619289856" remote="131073617620000000" Dst="0" />
+<file name="manual-item-refund.php" server="128.199.115.112//var/www/cashifyskins/" local="131075110417718002" remote="131075110450000000" Dst="0" />
+<file name="item-missing.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095010000000" remote="131069095010000000" Dst="0" />
+<file name="claim-ticket.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095010000000" remote="131069095010000000" Dst="0" />
+<file name="user-info.php" server="128.199.115.112//var/www/cashifyskins/" local="131072785023369506" remote="131072785160000000" Dst="0" />
+<file name="unban-user.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095020000000" remote="131069095020000000" Dst="0" />
+<file name="unclaim-ticket.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095020000000" remote="131069095020000000" Dst="0" />
+<file name="ban-user.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095010000000" remote="131069095010000000" Dst="0" />
+<file name="test-bot.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095020000000" remote="131069095020000000" Dst="0" />
+<file name="close-ticket.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095010000000" remote="131069095010000000" Dst="0" />
+<file name="fetch-invoice-details.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095010000000" remote="131069095010000000" Dst="0" />
+<file name="add-funds.php" server="128.199.115.112//var/www/cashifyskins/" local="131069095010000000" remote="131069095010000000" Dst="0" />
+<file name="custom-refund.php" server="128.199.115.112//var/www/cashifyskins/" local="131072780185874620" remote="131072780320000000" Dst="0" />
+<file name="full-fund-refund.php" server="128.199.115.112//var/www/cashifyskins/" local="131072828104103594" remote="131072828240000000" Dst="0" />
+<file name="partial-fund-refund.php" server="128.199.115.112//var/www/cashifyskins/" local="131072843139115688" remote="131072843260000000" Dst="0" />
+<file name="fund-refund.php" server="128.199.115.112//var/www/cashifyskins/" local="131072845795256482" remote="131072845920000000" Dst="0" />
+<file name="refund-funds.php" server="128.199.115.112//var/www/cashifyskins/" local="131074590536027093" remote="131074590550000000" Dst="0" />
+<file name="manual-withdrawal.php" server="128.199.115.112//var/www/cashifyskins/" local="131074356866245634" remote="131074356890000000" Dst="0" />
+<file name="manual-payout.php" server="128.199.115.112//var/www/cashifyskins/" local="131078861450261553" remote="131078861560000000" Dst="0" />
+<file name="sale-item-refund.php" server="128.199.115.112//var/www/cashifyskins/" local="131078027291407065" remote="131078027390000000" Dst="0" />
+</dwsync>
