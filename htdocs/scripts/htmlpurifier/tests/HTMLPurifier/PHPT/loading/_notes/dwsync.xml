@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="auto-without-spl-with-autoload.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098210000000" remote="131069098210000000" Dst="0" />
+<file name="auto-without-spl-autoload.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098210000000" remote="131069098210000000" Dst="0" />
+<file name="path-includes.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098220000000" remote="131069098220000000" Dst="0" />
+<file name="standalone.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098220000000" remote="131069098220000000" Dst="0" />
+<file name="_autoload.inc" server="128.199.115.112//var/www/cashifyskins/" local="131069098220000000" remote="131069098220000000" Dst="0" />
+<file name="auto-with-autoload.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098210000000" remote="131069098210000000" Dst="0" />
+<file name="auto.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098210000000" remote="131069098210000000" Dst="0" />
+<file name="standalone-with-prefix.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098220000000" remote="131069098220000000" Dst="0" />
+<file name="_no-autoload.inc" server="128.199.115.112//var/www/cashifyskins/" local="131069098220000000" remote="131069098220000000" Dst="0" />
+<file name="safe-includes.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098220000000" remote="131069098220000000" Dst="0" />
+<file name="error-auto-with-spl-nonstatic-autoload.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098210000000" remote="131069098210000000" Dst="0" />
+<file name="auto-with-spl-autoload-default.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098210000000" remote="131069098210000000" Dst="0" />
+<file name="standalone-autoload.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098220000000" remote="131069098220000000" Dst="0" />
+<file name="auto-includes.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098210000000" remote="131069098210000000" Dst="0" />
+<file name="path-includes-autoload.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098220000000" remote="131069098220000000" Dst="0" />
+<file name="auto-with-spl-autoload.phpt" server="128.199.115.112//var/www/cashifyskins/" local="131069098210000000" remote="131069098210000000" Dst="0" />
+</dwsync>

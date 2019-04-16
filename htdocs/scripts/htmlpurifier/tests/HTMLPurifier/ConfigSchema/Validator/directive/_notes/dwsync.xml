@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="allowedIsString.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="ignoreNamespace.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="defaultNullWithAllowed.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="allowedNotEmpty.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="typeWithAllowedIsStringType.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+<file name="unique.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+<file name="typeDefined.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="aliasesAliasCollision.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="descriptionNotEmpty.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="defaultType.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="valueAliasesAliasIsString.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+<file name="typeWithValueAliasesIsStringType.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+<file name="valueAliasesNotAliasSelf.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+<file name="valueAliasesRealAllowed.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+<file name="aliasesDirectiveCollision.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="defaultIsAllowed.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098290000000" remote="131069098290000000" Dst="0" />
+<file name="valueAliasesRealIsString.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+<file name="valueAliasesAliasNotAllowed.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+<file name="typeExists.vtest" server="128.199.115.112//var/www/cashifyskins/" local="131069098300000000" remote="131069098300000000" Dst="0" />
+</dwsync>

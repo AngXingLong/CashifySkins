@@ -1,4 +1,4 @@
-			<?php
+<?php
 			
-            $steamauth['apikey'] = ""; 
+            	$steamauth['apikey'] = ""; 
 		$steamauth['domainname'] = "LocalHost"; 

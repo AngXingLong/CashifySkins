@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="common.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="merge-library.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="old-extract-schema.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="add-vimline.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="remove-trailing-whitespace.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096400000000" remote="131069096400000000" Dst="0" />
+<file name="generate-includes.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="rename-config.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096410000000" remote="131069096410000000" Dst="0" />
+<file name="flush.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="old-remove-schema-def.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096390000000" remote="131069096390000000" Dst="0" />
+<file name="generate-ph5p-patch.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="old-remove-require-once.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096390000000" remote="131069096390000000" Dst="0" />
+<file name="config-scanner.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="generate-schema-cache.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="flush-definition-cache.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="compile-doxygen.sh" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="PH5P.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096410000000" remote="131069096410000000" Dst="0" />
+<file name="generate-entity-file.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="regenerate-docs.sh" server="128.199.115.112//var/www/cashifyskins/" local="131069096390000000" remote="131069096390000000" Dst="0" />
+<file name="generate-standalone.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name=".htaccess" server="128.199.115.112//var/www/cashifyskins/" local="131069096380000000" remote="131069096380000000" Dst="0" />
+<file name="update-config.php" server="128.199.115.112//var/www/cashifyskins/" local="131069096410000000" remote="131069096410000000" Dst="0" />
+<file name="PH5P.patch" server="128.199.115.112//var/www/cashifyskins/" local="131069096390000000" remote="131069096390000000" Dst="0" />
+</dwsync>
