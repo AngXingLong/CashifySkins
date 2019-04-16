@@ -1,0 +1,146 @@
+h1{
+	color:#fff;
+}
+h2{
+	color:#fff;
+}
+.buttons{
+	color:#fff;
+	border:1px solid #fff;
+	border-radius:6px;
+	text-align:center;
+	padding:10px 30px;
+
+}
+.buttons:hover{
+	background:rgba(255,255,255,0.32);
+	color:#fff;
+}
+.buttons{
+	color:#fff;
+	border:1px solid #fff;
+	border-radius:6px;
+	text-align:center;
+	padding:10px 30px;
+	float:left;
+
+}
+#sell_button{
+	margin-left:12px;
+}
+#bg_1{    
+	min-width:1200px;
+	margin:0 auto;
+	height:400px;
+	background-image:url(../images/bg_footer.jpg);
+	background-position: 60% 76%;
+	background-repeat:no-repeat;
+	background-color:#000;
+
+}
+#bg_container_1{
+	width:1120px;
+	margin: 0 auto;
+}
+
+#bg_container_1 img{
+	height:440px;
+	margin-top:-19px;
+}
+
+#bg_1_text{
+	white-space: nowrap;
+	margin-top:40px;
+	float:left;
+	font-size:28px;
+	width:720px;
+}
+#bg_1_text h1{
+	font-size:46px;
+	
+}
+#bg_2{
+	min-width:1200px;
+	background-color:#111111;
+	border-top:1px solid #222222;
+}
+.bg_2_container{
+	display:table;
+	width:1180px;
+	margin: 0 auto;
+}
+.bg_2_cell{
+	display: table-cell; 
+  	vertical-align: middle; 
+ 	text-align: center; 
+	width:350px;
+	height:100px;
+	font-size:18px;
+}
+.bg_2_cell span{
+	color:#fff;
+	font-weight:bold;
+	font-size:30px;
+}
+
+#bg_3{
+	border-top:1px solid #222222;
+	display: table;
+	width:100%;
+}
+#bg_3 h2{
+	text-align:center;
+	margin:25px auto;
+	font-size:30px;
+}
+#bg_3_container{
+	display: table;
+	width:1180px;
+	margin:10px auto;
+}
+#bg_3_container a{
+	display: table-cell; 
+  	vertical-align:middle; 
+ 	text-align: center; 
+	width:400px;
+	padding:10px 0;
+	color:#fff;
+	font-size:18px;
+}
+#bg_3_container a:hover{
+	color:#FF6D1F;
+
+}
+
+#bg_3 img{
+	height:60px;
+	paddding:0 40px;
+}
+
+
+#bg_4{
+	border-top:1px solid #222;
+	color:#fff;
+	background: #191919;
+	width:100%;
+	margin:0 auto;
+}
+#bg_4 h2{
+	text-align:center;
+	font-size:30px;
+}
+
+#bg_4_container{
+	color:#fff;
+	position: relative;
+	width:1200px;
+	padding-bottom:50px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+
+footer {
+	margin-top:0;
+
+}

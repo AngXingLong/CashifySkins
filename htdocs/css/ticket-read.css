@@ -1,0 +1,152 @@
+#basic_content_wrapper{
+	width:1160px;
+	padding:0 20px;
+	display:block;
+}
+h1{
+	margin:10px 0px;
+	margin-bottom:20px;
+}
+.message_container{
+	width:100%;
+	margin: 0 auto;
+	margin-bottom:10px;
+}
+.message_title{
+	overflow:hidden;
+	margin-bottom:8px;	
+}
+.message_title span:nth-child(1){
+	float:left;
+	display:block;
+	margin-top:10px;
+	
+}
+.message_title span:nth-child(2){
+	float:right;
+	display:block;
+}
+
+#close_ticket{
+	display:inline-block;
+	float:right;
+}
+.message_header{
+	width:98.6%;
+	background:#444;
+	padding:8px;
+	font-size:13px;
+}
+.user_role{
+	color:#FFDF00;
+}
+.message_details{
+	display:inline;
+}
+.message a{
+	color:#FF6D1F;
+}
+.message a:hover{
+	color:#FA5B0F;
+}
+.message_actions{
+	display:inline;
+	float:right;
+	cursor:pointer;
+}
+.message{
+	width:98.6%;
+	padding:8px;
+	background:#333;
+	min-height:40px;
+	margin-bottom:5px;
+	font-size:13px;
+	
+}
+.time{
+	color:#aaa;
+}
+textarea{
+	width:100%;
+	background:#222;
+	border:1px solid #ddd;
+	color:#ddd;
+	height:150px;
+	padding:8px;
+}
+.button_theme{
+	font-family: Arial;
+	font-weight:400;
+	font-size:17px;
+	padding:5px 12px;
+	border:0;
+	color:#fff;
+	background-color:#FF6D1F;
+	border-radius:2px;
+	margin-top:5px;
+	cursor:pointer;
+}
+.button_theme:hover{
+	background-color:#FA5B0F;
+}
+.spacing{
+	height:50px;
+}
+.edit_message_wrapper{
+	width:700px;
+	min-height:33px;
+	overflow:hidden;
+	background:#222;
+}
+.edit_message_text_wrapper{
+	padding:0;
+	margin:0;
+}
+.edit_message_header_wrapper{
+	background:#222;
+	border-bottom:1px solid #000;
+	font-size:18px;
+	width:700px;
+	padding:10px;
+}
+.edit_message_text_wrapper textarea{
+	border:0;
+	margin:0;
+	height:250px;
+	background:#333;
+}
+.edit_message_button_wrapper{
+	width:100%;
+	height:40px;
+	padding:0;
+	margin:0;
+	background:#222;
+	display:block;
+}
+.edit_message_button_wrapper button{
+	position:absolute;
+	right:10px;
+	margin:5px;
+	
+}
+
+.manage_ticket_button{
+	font-family: Arial;
+	font-weight:400;
+	font-size:17px;
+	padding:5px 12px;
+	border:0;
+	color:#fff;
+	background-color:#FF6D1F;
+	border-radius:2px;
+	margin-top:5px;
+	cursor:pointer;
+	margin-right:5px;
+}
+.manage_ticket_button:hover{
+	background:#FA5B0F;
+}
+
+.ticket_msg_edited{
+	color:#fff;
+}

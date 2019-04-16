@@ -1,0 +1,43 @@
+	
+	#basic_content_wrapper{
+		padding:0 30px 90px 30px;
+		width:1140px;
+	}
+	a{
+		color:#FA5B0F;
+	}
+	a:hover{
+		color:#FF6D1F;
+	}
+	#faq {
+		color:#ddd;
+	}
+	h2{
+		margin-top:30px;
+		margin-bottom:10px;
+		font-size:24px;
+	}
+	#faq dt {
+		background:#222;
+		cursor: pointer;
+		padding: 10px;
+	}
+	#faq dd {
+		padding: 8px 0;
+		margin: 0;
+		background:#333;
+		border-top:0;
+	}
+	.qa_wrapper{
+		margin:-1px;
+		border:1px solid #888;
+	}
+	.expand_toggle_label{
+		float:right;
+		font-size:14px;
+		color:#aaa;
+	}
+	#faq dd p {
+		padding: 10px;
+		margin: 0;
+	}

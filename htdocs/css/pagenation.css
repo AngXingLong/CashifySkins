@@ -1,0 +1,28 @@
+#pagenation{
+	text-align:center;
+	height:50px;
+	font-family:arial;
+	font-weight:600;
+}
+.page, .page_highlight, .page_null, .page_arrow{	
+	background-color:#222;
+	color:#fff;
+	margin:1px;
+	padding: 7px 12px;
+	cursor:pointer;
+}
+
+.page:hover, .page_highlight, .page_arrow{	
+	background-color:#FA5B0F;
+	color:#fff;
+}
+
+.page_arrow:first-child {
+	border-top-left-radius:2px;
+	border-bottom-left-radius:2px;
+
+}
+.page_arrow:last-child {
+	border-top-right-radius:2px;
+	border-bottom-right-radius:2px;
+}
